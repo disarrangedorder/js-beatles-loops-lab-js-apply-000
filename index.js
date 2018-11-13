@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
   let i = 0
 
   while (i < facts.length) {
-    withExclamation.push(`facts[i]!!!`)
+    withExclamation.push(`${facts[i]}!!!`)
     i++
   }
 
