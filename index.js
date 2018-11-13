@@ -7,6 +7,7 @@ function theBeatlesPlay (musicians, instruments){
   return array
 }
 
+
 function johnLennonFacts(facts){
   var withExclamation = []
   let i = 0
@@ -16,6 +17,7 @@ function johnLennonFacts(facts){
   }
   return withExclamation
 }
+
 
 function iLoveTheBeatles(num){
   var array = []
