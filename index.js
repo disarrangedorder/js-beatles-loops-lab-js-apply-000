@@ -18,12 +18,12 @@ function johnLennonFacts(facts){
 
   var withExclamation = []
   let i = 0
-  
+
   while (i < facts.length) {
     withExclamation.push(`facts[i]!!!`)
     i++
   }
 
   return withExclamation
-  
+
 }
